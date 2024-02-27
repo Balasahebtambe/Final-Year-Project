@@ -35,16 +35,16 @@
     /*================================
     offste search
     ==================================*/
-    var offsetSearch = $('.offset-search');
-    var bodyOverlay = $('.body_overlay');
-    $('.search_btn').on('click', function() {
-        $(offsetSearch).addClass('show_hide');
-        $(bodyOverlay).addClass('show_hide');
-    });
-    bodyOverlay.on('click', function() {
-        $(offsetSearch).removeClass('show_hide');
-        $(bodyOverlay).removeClass('show_hide');
-    });
+    // var offsetSearch = $('.offset-search');
+    // var bodyOverlay = $('.body_overlay');
+    // $('.search_btn').on('click', function() {
+    //     $(offsetSearch).addClass('show_hide');
+    //     $(bodyOverlay).addClass('show_hide');
+    // });
+    // bodyOverlay.on('click', function() {
+    //     $(offsetSearch).removeClass('show_hide');
+    //     $(bodyOverlay).removeClass('show_hide');
+    // });
 
 
     /*================================
